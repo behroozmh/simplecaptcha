@@ -7,3 +7,46 @@ CVS/
 bin/
 stacktrace.log
 .settings/org.eclipse.ltk.core.refactoring.prefs
+
+
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/out/
+
+
+*.exe
+*.dll
+*.rar
+*.tar
+*.jar
+*.tar.gz
+*.war
+*.zip
+*.7z
+*.mdb
+*.accdb
+*.xls
+*.xlsx
+*.pdf
